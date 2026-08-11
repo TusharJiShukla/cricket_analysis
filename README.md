@@ -1,49 +1,35 @@
-﻿<div align="center">
-  <h1 align="center">cricket analysis</h1>
+<div align="center">
+  <h1 align="center">🏏 Cricket Data Analysis (2007 - 2023)</h1>
   <h3>Developed by Tushar Shukla</h3>
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Analysis Badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge" />
+</p>
 
 ## 🚀 Overview
+Welcome to the **Cricket Analysis** repository! This data-driven project provides an in-depth analytical breakdown of cricket matches spanning over 15 years (2007 to 2023). By parsing historical datasets, it aims to uncover trends, player statistics, and match outcomes across various tournaments.
 
-Welcome to the **cricket analysis** repository! This project was built to solve interesting problems and explore new technologies. Check out the source code to see how it was implemented.
-
-<br/>
-
-## 🛠️ Built With
-
-*This project leverages modern tools and technologies to deliver a robust solution.*
-
-<br/>
+## ✨ Features
+- **Year-wise Breakdown**: Organized analysis directories spanning major cricketing milestones (`2007`, `2011`, `2015`, `2019`, `2023`).
+- **Comprehensive Datasets**: Structured `data` directory containing raw and processed match statistics for thorough evaluation.
+- **Detailed Documentation**: Includes a comprehensive `Project summary.docx` outlining the objectives, methodology, and key analytical takeaways of the project.
 
 ## 💻 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
 1. Clone the repo:
-   `sh
+   ```bash
    git clone https://github.com/TusharJiShukla/cricket_analysis.git
-   `
+   ```
 2. Navigate to the project directory:
-   `sh
+   ```bash
    cd cricket_analysis
-   `
-
-<br/>
+   ```
+3. Explore the `analysis` folders to find specific scripts and notebooks corresponding to different years.
+4. Read through `Project summary.docx` to understand the overarching insights derived from the datasets.
 
 ## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
-
-<br/>
-
-## 👤 Author
-
-**Tushar Shukla**
-- GitHub: [@TusharJiShukla](https://github.com/TusharJiShukla)
-- LinkedIn: [Tushar Shukla](https://linkedin.com/in/tushar-shukla)
-- Email: tusharjishukla@gmail.com
+Contributions, issues, and feature requests are welcome!
 
 <div align="center">
   <sub>Made with ❤️ by Tushar Shukla</sub>
